@@ -1,3 +1,5 @@
 # cs582
-# Try-Django
-Learn Django bit by bit in this series.
+# Django
+here we get a better understatnding of django
+by practicing django doing projects
+
